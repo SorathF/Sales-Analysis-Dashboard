@@ -34,4 +34,4 @@ Key steps included:
 After cleaning, the data was modeled in Power BI to support multi-dimensional analysis across time, store attributes, and departments. DAX measures were created to calculate key performance indicators and financial metrics, including Total Sales, Total Cost, Gross Margin, Total Sales YTD, and Variance from Target.
 
 ## Visualization
-
+![Dashboard](https://github.com/SorathF/Sales-Analysis-Dashboard/blob/8e8db1f9b2c65a57f71a8b4e99e564e163b4ac08/Sales%20Analysis.png)

@@ -35,3 +35,5 @@ After cleaning, the data was modeled in Power BI to support multi-dimensional an
 
 ## Visualization
 ![Dashboard](https://github.com/SorathF/Sales-Analysis-Dashboard/blob/8e8db1f9b2c65a57f71a8b4e99e564e163b4ac08/Sales%20Analysis.png)
+
+![Dashboard](https://github.com/SorathF/Sales-Analysis-Dashboard/blob/d5f0c450e13c462c1b9bbcc6fea8c8ca0ce66d89/Cost.png)
